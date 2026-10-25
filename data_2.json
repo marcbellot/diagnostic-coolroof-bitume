@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "agences": [
+    "Bourg-en-Bresse",
+    "Villefranche-sur-Saône",
+    "Toulouse Nord",
+    "Mâcon"
+  ],
+  "solutions": {
+    "s1_protections": {
+      "title": "Protections solaires",
+      "fiche": "Fiche technique n°6",
+      "tag": "solution",
+      "text": "Les verrières, lanterneaux ou sheds sont particulièrement exposés au soleil. Des écrans opaques ou translucides, selon le besoin de lumière naturelle, réduisent directement l'apport solaire à la source.",
+      "vigilance": [
+        "Vérifier si l'élément participe au désenfumage : la fonction sécurité doit être préservée.",
+        "Arbitrer entre occultation forte et maintien de la lumière naturelle.",
+        "Vérifier la compatibilité des fixations avec le vent, la pluie et la maintenance."
+      ]
+    },
+    "s3_membrane": {
+      "title": "Membrane blanche réfléchissante (PVC)",
+      "fiche": "Fiche technique n°4",
+      "tag": "solution",
+      "text": "Le support de toiture n'est pas sain, ou bien une réfection/création/rechapage lourd est déjà prévu(e). Dans les deux cas, une réfection ou un rechapage lourd de l'étanchéité est nécessaire. La membrane blanche PVC réfléchissante permet de traiter en même temps cette remise à niveau et l'amélioration thermique, en réduisant le rayonnement solaire absorbé.",
+      "vigilance": [
+        "Programmer une inspection technique détaillée du support pour confirmer l'ampleur exacte du désordre (infiltration, cloque, fissuration, décollement).",
+        "Vérifier compatibilité du support, des charges, pentes et évacuations EP.",
+        "Confirmer la faisabilité d'une interruption d'exploitation pendant les travaux.",
+        "Contrôler les contraintes incendie et le désenfumage existant."
+      ]
+    },
+    "s4_coolroof": {
+      "title": "Résine Coolroof / SEL réflectif",
+      "fiche": "Fiche technique n°5",
+      "tag": "solution",
+      "text": "Aucune réfection lourde n'est prévue et le support existant est sain et compatible. La résine coolroof (ou SEL réflectif) s'applique directement sur ce support pour un gain thermique rapide, sans travaux de réfection ni interruption longue d'exploitation.",
+      "vigilance": [
+        "Le support doit être sain, sec, adhérent, sans cloques ni fissuration structurelle : à ne jamais présumer sans contrôle visuel.",
+        "Des essais d'adhérence ou un avis fabricant peuvent être nécessaires avant application.",
+        "Vérifier les conditions météo de pose et la compatibilité du système avec la membrane existante.",
+        "Offre en phase pilote : formation fabricant et validation assurance requises avant toute proposition.",
+        "Sur une grande surface simple, comparer le coût avec une membrane blanche, souvent plus compétitive."
+      ]
+    },
+    "s5_ventilation": {
+      "title": "Ventilation naturelle",
+      "fiche": "Fiche technique n°1",
+      "tag": "solution",
+      "text": "L'air chaud est bloqué sous la toiture alors que des ouvrants hauts et bas sont envisageables. Ventelles, ouvrants, exutoires ou amenées d'air permettent un balayage d'air naturel et l'évacuation de l'air chaud stagnant (effet cheminée).",
+      "vigilance": [
+        "Vérifier que les entrées d'air basses sont suffisantes, propres et non obstruées.",
+        "S'assurer que les créations d'ouvertures ne perturbent pas le désenfumage réglementaire.",
+        "Le client doit accepter des organes visibles en toiture et un minimum de maintenance."
+      ]
+    },
+    "s6_freecooling": {
+      "title": "Free cooling nocturne",
+      "fiche": "Fiche technique n°2",
+      "tag": "solution",
+      "text": "Les nuits sont nettement plus fraîches, l'inertie du bâtiment est utile et une automatisation est possible. Le free cooling exploite une ventilation nocturne pilotée (consignes, sondes, sécurité pluie/vent) pour désamorcer la chaleur accumulée avant la reprise d'activité.",
+      "vigilance": [
+        "Un écart de température jour/nuit suffisant est nécessaire (repère plaquette ATTILA : 4 °C ou plus, à confirmer par mesure jour/nuit).",
+        "Vérifier la possibilité de ventiler la nuit sans risque d'intrusion, de pluie, de vent ou de nuisance sonore.",
+        "Les ouvrants doivent pouvoir être automatisés et asservis à des sondes température / pluie / vent.",
+        "La régulation et l'automatisme se font avec un partenaire automaticien : ne pas vendre comme produit standard sans étude."
+      ]
+    },
+    "s7_adiabatique": {
+      "title": "Rafraîchissement adiabatique",
+      "fiche": "Fiche technique n°3",
+      "tag": "solution",
+      "text": "Le besoin de gain de confort est fort et actif, avec un point d'eau, une maintenance possible et une hygrométrie compatible. Le rafraîchissement adiabatique apporte un gain important sous ces conditions, sous réserve d'un suivi sanitaire rigoureux.",
+      "vigilance": [
+        "L'hygrométrie doit rester compatible avec un refroidissement évaporatif (climat sec).",
+        "Un point d'eau, une alimentation électrique et une évacuation doivent être disponibles.",
+        "Le client doit accepter un contrat d'entretien annuel (pads, filtres, purge, qualité d'eau, hivernage) et une analyse sanitaire de l'installation (prévention légionellose, cf. fiche n°3).",
+        "Solution hors cœur de métier toiture : à proposer avec un partenaire CVC/adiabatique, jamais comme simple prestation toiture."
+      ]
+    }
+  },
+  "questions": {
+    "q1": {
+      "eyebrow": "Bloc 1 · Enveloppe — Q1",
+      "text": "Y a-t-il des apports solaires importants par l'enveloppe du bâtiment (toiture sombre, verrières, pic de chaleur en après-midi) ?",
+      "aide": "On cherche d'abord la cause : la surchauffe vient-elle du rayonnement solaire sur l'enveloppe (toiture, verrières) ? Si oui, on regarde ensuite précisément par où la chaleur entre."
+    },
+    "q2": {
+      "eyebrow": "Bloc 1 · Enveloppe — Q2",
+      "text": "Les verrières, lanterneaux ou sheds sont-ils particulièrement exposés au soleil ?",
+      "aide": "Une surface translucide en toiture laisse passer directement le rayonnement solaire : un point à traiter en priorité si c'est le cas."
+    },
+    "q3": {
+      "eyebrow": "Bloc 1 · Enveloppe — Q3",
+      "text": "Indépendamment des verrières, la toiture elle-même (partie opaque, membrane) est-elle fortement exposée au rayonnement solaire ?",
+      "aide": "Une toiture sombre très exposée peut, à elle seule, justifier une solution réfléchissante sur la couverture."
+    },
+    "q4": {
+      "eyebrow": "Bloc 1 · Enveloppe — Q4",
+      "text": "Le support de toiture est-il sain, sec, adhérent et compatible avec une solution réfléchissante ?",
+      "aide": "C'est le critère technique clé. Support sain → on regarde ensuite si des travaux lourds sont déjà prévus, pour choisir entre membrane et résine coolroof. Support non sain (ou doute) → une réfection/rechapage lourd est de toute façon nécessaire : la membrane blanche s'impose directement."
+    },
+    "q5": {
+      "eyebrow": "Bloc 1 · Enveloppe — Q5",
+      "text": "Une réfection, création ou un rechapage lourd de la toiture est-il déjà prévu ou programmé ?",
+      "aide": "Ce critère détermine le choix technique : travaux lourds déjà prévus → membrane blanche. Pas de travaux prévus, support déjà sain → résine coolroof."
+    },
+    "q6": {
+      "eyebrow": "Bloc 1 · Enveloppe — Q6 (sortie de bloc)",
+      "text": "Après cette étude de l'enveloppe, le client exprime-t-il un besoin résiduel ou un objectif de confort renforcé ?",
+      "aide": "Si l'enveloppe seule répond au besoin, on peut s'arrêter ici. Sinon, on poursuit avec l'étude de l'air intérieur (ventilation, free cooling, rafraîchissement adiabatique)."
+    },
+    "q7": {
+      "eyebrow": "Bloc 2 · Air intérieur — Q7",
+      "text": "Le site présente-t-il des contraintes QHSE ou process (polluants, poussières, solvants, ATEX, odeurs, humidité, qualité de l'air, désenfumage, sécurité incendie) ?",
+      "aide": "Toute solution qui fait circuler de l'air (ventilation, free cooling, adiabatique) doit être validée par le QHSE ou un bureau d'études si de telles contraintes existent."
+    },
+    "v1": {
+      "eyebrow": "Bloc 2 · Air intérieur — Verrou QHSE",
+      "badge": "Point de vigilance — Verrou QHSE",
+      "title": "Verrou QHSE",
+      "text": "Ne pas prescrire de ventilation naturelle, de free cooling ou de rafraîchissement adiabatique sans validation QHSE ou bureau d'études. Le scénario enveloppe, lui, reste pleinement valable et actif, quelle que soit la suite."
+    },
+    "q7b": {
+      "eyebrow": "Bloc 2 · Air intérieur — Validation QHSE",
+      "text": "Cette validation QHSE ou bureau d'études a-t-elle été obtenue ?",
+      "aide": "Sans validation confirmée, on ne peut pas prescrire de solution impliquant une circulation d'air. On s'en tient alors aux solutions enveloppe en attendant cette validation."
+    },
+    "q8": {
+      "eyebrow": "Bloc 2 · Air intérieur — Q8",
+      "text": "L'air chaud est-il bloqué sous la toiture, avec des ouvrants hauts et bas envisageables ?",
+      "aide": "C'est la condition de base d'une ventilation naturelle efficace (effet cheminée entre entrées basses et sorties hautes). Sans ouvrants possibles, le free cooling est aussi écarté : on passe directement au rafraîchissement adiabatique."
+    },
+    "q9": {
+      "eyebrow": "Bloc 2 · Air intérieur — Q9",
+      "text": "Les nuits sont-elles nettement plus fraîches, avec une inertie du bâtiment utile et une automatisation envisageable ?",
+      "aide": "C'est la condition de base du free cooling : pouvoir exploiter l'écart jour/nuit via des ouvertures automatisées et sécurisées."
+    },
+    "q10": {
+      "eyebrow": "Bloc 2 · Air intérieur — Q10",
+      "text": "Le besoin de gain est-il fort, avec un point d'eau, une maintenance possible, une hygrométrie compatible et une extraction de l'air introduit possible ?",
+      "aide": "Ce sont les conditions indispensables à un rafraîchissement adiabatique efficace et pérenne. L'adiabatique ne dépend pas des ouvrants de toiture, mais l'air soufflé doit pouvoir ressortir (extraction existante ou à créer), sinon surpression et inconfort."
+    }
+  },
+  "mesures": [
+    "Température extérieure à l'ombre (référence météo du jour)",
+    "Température de surface de toiture / membrane (pistolet IR, plusieurs points)",
+    "Température sous toiture (partie haute, sonde ou thermomètre)",
+    "Température en zone de travail (hauteur 1,1 à 1,7 m selon poste)",
+    "Hygrométrie intérieure et extérieure",
+    "Vitesse d'air ressentie / courants d'air existants",
+    "Photos de la toiture et des points singuliers (relevés, naissances EP, lanterneaux)",
+    "Plan ou croquis des zones chaudes, ouvrants et sens des vents"
+  ]
+}
